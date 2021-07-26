@@ -87,14 +87,6 @@ const styles = StyleSheet.create({
     borderRadius: 2,
     borderColor: '#20232a',
   },
-  saida1: {
-    marginTop: 50,
-    fontSize: 16,
-  },
-  saida2: {
-    marginTop: 20,
-    fontSize: 16,
-  },
   volta: {
     marginTop: 50,
     textAlign: 'center',
